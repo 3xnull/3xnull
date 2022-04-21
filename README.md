@@ -10,7 +10,7 @@
 <img align="left" alt="Javascript" width="50px" height="50px" src="https://raw.githubusercontent.com/faith/faith/master/images/javascript.png" />
 <img align="left" alt="DenoJS" width="50px" height="50px" src="https://raw.githubusercontent.com/faith/faith/master/images/denojs.svg" />
 <img align="left" alt="NodeJS" width="50px" height="50px" src="https://raw.githubusercontent.com/faith/faith/master/images/nodejs.svg" />
-<img align="left" alt="Python" width="50px" height="50px" src="https://raw.githubusercontent.com/faith/faith/master/images/python.png" />
+<img align="left" alt="Python" width="50px" height="50px" src="https://raw.githubusercontent.com/faith/faith/master/images/c#.png" />
 
 ---
 
