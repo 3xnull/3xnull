@@ -5,6 +5,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/417987976174370826)](https://discord.com/users/417987976174370826)
 
 ### Programming Languages/Frameworks
+<img align="left" alt="NodeJS" width="50px" height="50px" src="https://raw.githubusercontent.com/faith/faith/master/images/nodejs.svg" />
 <img align="left" alt="Python" width="50px" height="50px" src="https://raw.githubusercontent.com/faith/faith/master/images/python.png" />
 
 ---
