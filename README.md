@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=3xnull&color=green)
 
 ### Do you want to contact me?
-[![Discord Presence](https://lanyard.cnrad.dev/api/417987976174370826)](https://discord.com/users/417987976174370826)
+[![DiscordProfileBanner](https://discord.c99.nl/widget/theme-2/417987976174370826.png)](https://discord.com)
 
 ### Programming Languages/Frameworks
 <img align="left" alt="NodeJS" width="50px" height="50px" src="https://raw.githubusercontent.com/faith/faith/master/images/nodejs.svg" />
