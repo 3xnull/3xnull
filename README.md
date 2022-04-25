@@ -11,6 +11,8 @@
 ---
 
 ### Statistics
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3xnull&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3xnull&theme=tokyonight)
 ![github overall statistics](https://github-readme-stats.vercel.app/api?username=3xnull&show_icons=true&theme=tokyonight)
 ![github language statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=3xnull&show_icons=true&layout=compact&theme=tokyonight)
 
